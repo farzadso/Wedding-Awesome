@@ -1,17 +1,13 @@
-<div>
-	<h1 style="directoion:rtl">Wedding-Awesome </h1>
-	<p style="directoion:rtl">
-لیستی از نیازمندی های هر چیزی که برای مراسم های ازدواج نیاز دارید. از بله برون تا عروسی!
-	</p>
+<h1 style="direction:rtl; text-align: right">Wedding-Awesome </h1>
+<p style="direction:rtl; text-align: right">
+لیستی از نیازمندی های هر چیزی که برای مراسم های ازدواج نیاز دارید. از بله برون تا عروسی</p>
 
-	<h1 style="directoion:rtl">مشارکت</h1>
-	<p style="directoion:rtl">
-
+<h1 style="direction:rtl; text-align: right">مشارکت</h1>
+<p style="direction:rtl; text-align: right">
 لطفا تجربیات خود یا اطرافیانتان را در قالبی که در زیر توضیح خواهم داد با ما به اشتراک بزارید.
-
+<p style="direction:rtl; text-align: right">
 شروع کار در قالب جیسون هست. اما در ادامه باهم یک پلتفورم خوب میسازیم تا علاوه بر جامعه خودمان افراد دیگر هم در این کار ذینفع شوند.
 </p>
-</div>
 
 ```
 
